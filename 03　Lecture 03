@@ -42,3 +42,4 @@ db.<collectionName>.drop():刪除(當前)集合表
   true
   > show tables
   (無集合表)
+  
