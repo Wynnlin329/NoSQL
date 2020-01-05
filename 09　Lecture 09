@@ -22,3 +22,4 @@ Lecture 09　Redis 101
   (1)hashes:無順序，元素可重複
      常用指令:HSET(設定雙層key值)、HGET(取出多層key值)
   (2)sorted sets:有順序，元素不可重複
+  
