@@ -43,4 +43,3 @@ Lecture 10　Redis應用
      當user登入時檢查，若不存在則開放回答，否則顯示該user排名
      GET:可獲得用戶排名:value(account)
      
-     
